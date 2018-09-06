@@ -1,0 +1,29 @@
+1_Deep neural networks for acoustic modeling in speech recognition The shared views of four research groups
+Deep Speaker an End-to-End Neural Speaker Embedding System
+Deep Speech 2 End-to-End Speech Recognition in English and Mandarin
+End-to-End Text-Dependent Speaker Verification_LSTM
+Learning the Speech Front-endWith RawWaveform CLDNNs
+NATURAL TTS SYNTHESIS BY CONDITIONINGWAVENET ON MEL SPECTROGRAM
+Speech recognition with deep recurrent neural networks
+TACOTRON A FULLY END-TO-END TEXT-TO-SPEECH
+TACOTRON TOWARDS END-TO-END SPEECH SYNTHESIS
+TEXT-INDEPENDENT SPEAKER VERIFICATION USING 3D CONVOLUTIONAL NEURAL network
+WAVENET A GENERATIVE MODEL FOR RAW AUDIO
+
+
+A time delay neural network architecture for efficient modeling of long temporal contexts
+Conditional Image Generation with PixelCNN Decoders
+Deep Neural Network Embeddings for Text-Independent Speaker Verification
+Deep Neural Networks for Small Footprint Text-Dependent Speaker Verification
+Deep Residual Learning for Image Recognition
+DNN i-Vector Speaker Verification with Short, Text-Constrained Test Utterances
+for speaker recognition using a phonetically-aware deep neural
+Improving deep neural network acoustic models using generalized maxout networks
+Language Identification Using Time Delay Neural Network D-Vector on Short
+neural network acoustic models using generalized maxout networks
+Residual Convolutional CTC Networks for Automatic Speech Recognition
+Sequence discriminative Training of deep neural networks
+Support Vector Machines versus Fast Scoring in the Low-Dimensional Total
+Unfolded Recurrent Neural Networks for Speech Recognition
+Unsupervised feature learning for audio classification
+基于i-vector和深度学习的说话人识别
